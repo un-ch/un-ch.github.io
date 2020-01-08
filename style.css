@@ -1,0 +1,16 @@
+body {
+	background-color: darkcyan;
+
+}
+h1 {
+	border-color: orangered;
+	border-style: solid;
+	color: black;
+	text-align: center;
+	text-decoration: underline;
+}
+p {
+	color: grey;
+	text-align: left;
+}
+
